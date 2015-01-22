@@ -4,15 +4,15 @@ body {
 
 /* Your Code Here */
 
-div.row-one {
+.row-one {
   background-color: green;
 }
-div.row-two {
+.row-two {
   background-color: yellow;
 }
-div.row-three {
+.row-three {
   background-color: red;
 }
-div.row-four {
+.row-four {
   background-color: blue;
 }
